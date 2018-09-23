@@ -1,0 +1,5 @@
+**/[Pp]ackages/*
+!*/[Pp]ackages/repositories.xml/*
+**/[Bb]in/*
+**/[Oo]bj/*
+TestResults

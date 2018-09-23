@@ -1,0 +1,7 @@
+{
+	"database": {
+		"connectionString": "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\ContentLibrary.mdf;Integrated Security=True",
+		"provider": "System.Data.SqlClient"
+	}
+
+}
